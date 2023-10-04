@@ -1,6 +1,6 @@
 ## 历届优秀计算机成品毕业设计汇总
 
-### 全部 10 元购，提供有偿部署、讲解服务，[《项目启动教程》](https://www.bilibili.com/video/BV1Vh4y1w7zw)。
+### 全部 10 元购，提供有偿部署、讲解服务，[《项目启动教程》](https://www.bilibili.com/video/BV1Vh4y1w7zw)
 
 作者 QQ：916077357 ，微信：yyzwz2021，支持定制各类管理系统、用户网站、微信小程序。
 
@@ -26,14 +26,14 @@
 | S016     | 衣物搭配系统（源码+文档）             | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133063978) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104002029) |
 | S017     | 计算机机房作业管理系统（源码+文档）   | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133210948) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104011029) |
 | S018     | 车险自助理赔系统（源码+文档）         | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133230287) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104012029) |
-| S019     | 森林火灾预警系统（源码+文档）         |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104013029) |
-| S020     | 高校学院网站（源码+文档）             |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104015029) |
-| S021     | 天然气工程业务管理系统（源码+文档）   |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104016029) |
-| S022     | 天然气工程运维系统（源码+文档）       |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104017029) |
-| S023     | 海南旅游推荐系统（源码+文档）         |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104039029) |
-| S024     | 农村物流配送系统（源码+文档）         |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104040029) |
-| S025     | 城市桥梁道路管理系统（源码+文档）     |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104041029) |
-| S026     | 无代码动态表单系统（源码+文档）       |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104045029) |
+| S019     | 森林火灾预警系统（源码+文档）         | [演示/录屏](https://blog.csdn.net/qq_41464123/article/details/133266218) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104013029) |
+| S020     | 高校学院网站（源码+文档）             | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133280702) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104015029) |
+| S021     | 天然气工程业务管理系统（源码+文档）   | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133317448) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104016029) |
+| S022     | 天然气工程运维系统（源码+文档）       | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133321681) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104017029) |
+| S023     | 海南旅游推荐系统（源码+文档）         | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133375434) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104039029) |
+| S024     | 农村物流配送系统（源码+文档）         | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133513312) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104040029) |
+| S025     | 城市桥梁道路管理系统（源码+文档）     | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133543291) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104041029) |
+| S026     | 无代码动态表单系统（源码+文档）       |                                                             | [工坊自助下载](https://gf.bilibili.com/item/detail/1104045029) |
 | S027     | 高校大学生创业管理系统（源码+文档）   |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104046029) |
 | S028     | 大学计算机课程管理平台（源码+文档）   |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104047029) |
 | S029     | 高校学生管理系统（源码+文档）         |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104089029) |
@@ -45,6 +45,14 @@
 | S035     | 考研专业课程管理系统（源码+文档）     |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104218029) |
 | S036     | 桃花峪滑雪场租赁系统（源码）          |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104249029) |
 | S037     | 校园疫情防控管理系统（源码）          |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104257029) |
+| S038     | APK 检测管理系统（源码+文档）          |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104293029) |
+| S039     | 天沐瑜伽馆管理系统（源码+文档）       |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104311029) |
+| S040     | 个人健康管理系统（源码）              |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104312029) |
+| S041     | 木马文件检测系统（源码+文档）         |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104375029) |
+| S042     | 数字化社区网格管理系统（源码）        |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104376029) |
+| S043     | 农家乐订餐系统（源码）                |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104377029) |
+| S044     | 食品生产管理系统（源码）              |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104378029) |
+| S045     | 独居老人物资配送系统（源码+文档）     |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104388029) |
 
 ## 增值服务
 
@@ -52,13 +60,13 @@
 
 | 服务名称     | 服务价格                        |
 | ------------ | ------------------------------- |
-| 项目部署服务 | 20元                            |
-| 项目答疑服务 | 20元/半小时                     |
-| 项目定制     | 加微信详谈（预算300元以下勿扰） |
+| 项目部署服务 | 20 元                            |
+| 项目答疑服务 | 20 元/半小时                     |
+| 项目定制     | 加微信详谈（预算 300 元以下勿扰） |
 
-1. **项目下单方式**：请添加QQ：**916077357** / 微信：**yyzwz2021**，并备注上下单内容，如 "项目部署服务"、"项目答疑服务"、"项目定制"。
-2. 项目部署服务不包含讲解，以客户指定电脑上首次部署成功为准，只支持 Windows 操作系统，不满足最低配置（内存8G，C盘空余5G以上）要求的请勿下单。
-3. 项目答疑服务不包含部署，必须在项目启动成功后再下单，请下单前准备好自己的问题，可以答疑项目业务逻辑、源码解析、二次开发指导等内容，不对项目无关的问题进行解答（如 JDK、IDEA如何安装等）。
+1. **项目下单方式**：请添加 QQ：**916077357** / 微信：**yyzwz2021**，并备注上下单内容，如 "项目部署服务"、"项目答疑服务"、"项目定制"。
+2. 项目部署服务不包含讲解，以客户指定电脑上首次部署成功为准，只支持 Windows 操作系统，不满足最低配置（内存 8G，C 盘空余 5G 以上）要求的请勿下单。
+3. 项目答疑服务不包含部署，必须在项目启动成功后再下单，请下单前准备好自己的问题，可以答疑项目业务逻辑、源码解析、二次开发指导等内容，不对项目无关的问题进行解答（如 JDK、IDEA 如何安装等）。
 4. 咨询项目定制服务前，请准备好需求文档或任务书、项目周期、项目预算。
 
 ## 免责声明
