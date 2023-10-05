@@ -33,8 +33,8 @@
 | S023     | 海南旅游推荐系统（源码+文档）         | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133375434) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104039029) |
 | S024     | 农村物流配送系统（源码+文档）         | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133513312) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104040029) |
 | S025     | 城市桥梁道路管理系统（源码+文档）     | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133543291) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104041029) |
-| S026     | 无代码动态表单系统（源码+文档）       |                                                             | [工坊自助下载](https://gf.bilibili.com/item/detail/1104045029) |
-| S027     | 高校大学生创业管理系统（源码+文档）   |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104046029) |
+| S026     | 无代码动态表单系统（源码+文档）       | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133562387) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104045029) |
+| S027     | 高校大学生创业管理系统（源码+文档）   | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133574831) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104046029) |
 | S028     | 大学计算机课程管理平台（源码+文档）   |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104047029) |
 | S029     | 高校学生管理系统（源码+文档）         |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104089029) |
 | S030     | 厦门旅游电子商务预订系统（源码+文档） |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104090029) |
@@ -53,6 +53,7 @@
 | S043     | 农家乐订餐系统（源码）                |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104377029) |
 | S044     | 食品生产管理系统（源码）              |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104378029) |
 | S045     | 独居老人物资配送系统（源码+文档）     |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104388029) |
+| S046 | 企业项目合同信息系统（源码+文档） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104395029) |
 
 ## 增值服务
 
