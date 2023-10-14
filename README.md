@@ -44,12 +44,12 @@
 | S032     | 超市账单管理系统（源码+文档）         | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133782296) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104191029) |
 | S033     | 医院门诊预约系统（源码+文档）         | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133782956) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104216029) |
 | S034     | 校园电商物流云平台（源码+文档）       | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133783174) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104217029) |
-| S035     | 考研专业课程管理系统（源码+文档）     |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104218029) |
-| S036     | 桃花峪滑雪场租赁系统（源码含小程序）      |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104249029) |
-| S037     | 校园疫情防控管理系统（源码）          |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104257029) |
-| S038     | APK 检测管理系统（源码+文档）          |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104293029) |
-| S039     | 天沐瑜伽馆管理系统（源码+文档）       |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104311029) |
-| S040     | 个人健康管理系统（源码）              |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104312029) |
+| S035     | 考研专业课程管理系统（源码+文档）     | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133802915) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104218029) |
+| S036     | 桃花峪滑雪场租赁系统（源码含小程序）      | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133803039) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104249029) |
+| S037     | 校园疫情防控管理系统（源码）          | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133807796) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104257029) |
+| S038     | APK 检测管理系统（源码+文档）          | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133822137) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104293029) |
+| S039     | 天沐瑜伽馆管理系统（源码+文档）       | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133822299) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104311029) |
+| S040     | 个人健康管理系统（源码）              | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133822470) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104312029) |
 | S041     | 木马文件检测系统（源码+文档）         |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104375029) |
 | S042     | 数字化社区网格管理系统（源码）        |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104376029) |
 | S043     | 农家乐订餐系统（源码）                |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104377029) |
@@ -62,6 +62,7 @@
 | S050 | 智能教学资源库系统（源码+文档） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104445029) |
 | S051 | 高校宿舍调配管理系统（源码） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104475029) |
 | S052 | 服装店库存管理系统（源码+文档） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104478029) |
+| S053 | 中小学教师课程排课系统（源码+文档） |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104484029) |
 
 ## 增值服务
 
@@ -71,7 +72,7 @@
 | ------------ | ------------------------------- |
 | 项目部署服务 | 20 元                            |
 | 项目答疑服务 | 20 元/半小时                     |
-| 项目定制     | 加微信详谈（预算 300 元以下勿扰） |
+| 项目定制     | 加微信详谈 |
 
 1. **项目下单方式**：请添加 QQ：**916077357** / 微信：**yyzwz2021**，并备注上下单内容，如 "项目部署服务"、"项目答疑服务"、"项目定制"。
 2. 项目部署服务不包含讲解，以客户指定电脑上首次部署成功为准，只支持 Windows 操作系统，不满足最低配置（内存 8G，C 盘空余 5G 以上）要求的请勿下单。
