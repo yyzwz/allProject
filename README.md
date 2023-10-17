@@ -50,19 +50,22 @@
 | S038     | APK 检测管理系统（源码+文档）          | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133822137) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104293029) |
 | S039     | 天沐瑜伽馆管理系统（源码+文档）       | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133822299) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104311029) |
 | S040     | 个人健康管理系统（源码）              | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133822470) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104312029) |
-| S041     | 木马文件检测系统（源码+文档）         |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104375029) |
-| S042     | 数字化社区网格管理系统（源码）        |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104376029) |
-| S043     | 农家乐订餐系统（源码）                |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104377029) |
-| S044     | 食品生产管理系统（源码）              |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104378029) |
-| S045     | 独居老人物资配送系统（源码+文档）     |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104388029) |
-| S046 | 企业项目合同信息系统（源码+文档） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104395029) |
-| S047 | 学校热点新闻推送系统（源码+文档） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104400029) |
-| S048 | 大学生相亲网站（源码） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104414029) |
-| S049 | 创意工坊双创管理系统（源码含小程序） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104439029) |
-| S050 | 智能教学资源库系统（源码+文档） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104445029) |
-| S051 | 高校宿舍调配管理系统（源码） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104475029) |
+| S041     | 木马文件检测系统（源码+文档）         | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133837934) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104375029) |
+| S042     | 数字化社区网格管理系统（源码）        | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133837991) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104376029) |
+| S043     | 农家乐订餐系统（源码）                | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133838090) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104377029) |
+| S044     | 食品生产管理系统（源码）              | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133850980) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104378029) |
+| S045     | 独居老人物资配送系统（源码+文档）     | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133851070) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104388029) |
+| S046 | 企业项目合同信息系统（源码+文档） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133864401) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104395029) |
+| S047 | 学校热点新闻推送系统（源码+文档） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133865962) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104400029) |
+| S048 | 大学生相亲网站（源码） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133875610) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104414029) |
+| S049 | 创意工坊双创管理系统（源码含小程序） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133875662) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104439029) |
+| S050 | 智能教学资源库系统（源码+文档） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133875744) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104445029) |
+| S051 | 高校宿舍调配管理系统（源码） |  | [工坊自助下载](https://gf.bilibili.com/item/detail/1104475029) |
 | S052 | 服装店库存管理系统（源码+文档） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104478029) |
 | S053 | 中小学教师课程排课系统（源码+文档） |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104484029) |
+| S054 | 教学过程管理系统（源码） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104510029) |
+| S055 | 微信小程序音乐平台（源码） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104517029) |
+| S056 | 康复中心管理系统（源码） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104532029) |
 
 ## 增值服务
 
