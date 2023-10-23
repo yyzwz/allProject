@@ -60,12 +60,17 @@
 | S048 | 大学生相亲网站（源码） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133875610) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104414029) |
 | S049 | 创意工坊双创管理系统（源码含小程序） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133875662) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104439029) |
 | S050 | 智能教学资源库系统（源码+文档） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133875744) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104445029) |
-| S051 | 高校宿舍调配管理系统（源码） |  | [工坊自助下载](https://gf.bilibili.com/item/detail/1104475029) |
-| S052 | 服装店库存管理系统（源码+文档） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104478029) |
-| S053 | 中小学教师课程排课系统（源码+文档） |                                                              | [工坊自助下载](https://gf.bilibili.com/item/detail/1104484029) |
-| S054 | 教学过程管理系统（源码） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104510029) |
-| S055 | 微信小程序音乐平台（源码） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104517029) |
-| S056 | 康复中心管理系统（源码） | | [工坊自助下载](https://gf.bilibili.com/item/detail/1104532029) |
+| S051 | 高校宿舍调配管理系统（源码） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133890965) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104475029) |
+| S052 | 服装店库存管理系统（源码+文档） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133898964) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104478029) |
+| S053 | 中小学教师课程排课系统（源码+文档） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133899266) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104484029) |
+| S054 | 教学过程管理系统（源码） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133939006) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104510029) |
+| S055 | 微信小程序音乐平台（源码） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133975279) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104517029) |
+| S056 | 康复中心管理系统（源码） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133975414) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104532029) |
+| S057 | 婚恋交友网站（源码+文档） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133981613) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104546029) |
+| S058 | 民宿预定管理系统（源码） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133981752) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104564029) |
+| S059 | 数据可视化的智慧河南大屏（源码） | [演示/录屏](https://zwz99.blog.csdn.net/article/details/133981909) | [工坊自助下载](https://gf.bilibili.com/item/detail/1104577029) |
+| S060 | 固始鹅块销售系统（源码+文档） |  | [工坊自助下载](https://gf.bilibili.com/item/detail/1104581029) |
+| S061 | 用户画像活动推荐系统（源码+文档） |  | [工坊自助下载](https://gf.bilibili.com/item/detail/1104588029) |
 
 ## 增值服务
 
